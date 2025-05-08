@@ -1,0 +1,224 @@
+team_A,team_B,first_kick_team,first_kick_result,win_team,total_success_rate_A,total_success_rate_B,competition,year,stage,shootout_length
+Everton,Borussia Monchengladbach,A,saved,A,0.8,0.6,UCL,1970,Round of 16,10
+Celtic,Inter,A,missed,B,0.8,1.0,UCL,1972,Semi Finals,10
+Atvidabergs,Bayern Munich,B,scored,B,0.6,0.8,UCL,1973,First Round,10
+Ujpesti Dozsa,Spartak Trnava,A,scored,A,1.0,0.75,UCL,1974,Quarter Finals,8
+Mgdeburg,Malmo,A,missed,B,0.2,0.4,UCL,1975,First Round,9
+Torpedo Moskau,Benfica,B,scored,B,0.33,1.0,UCL,1977,First Round,7
+Juventus,Ajax,A,missed,A,0.75,0.0,UCL,1978,Quarter Finals,7
+Dynamo Dresden,Partizan,B,missed,A,0.71,0.57,UCL,1978,First Round,14
+Liverpool,Roma,A,missed,A,0.8,0.5,UCL,1984,Final,9
+BFC Dynamo,Aberdeen,B,scored,A,0.83,0.66,UCL,1984,First Round,12
+Dnipro,Bordeaux,B,scored,B,0.75,1.0,UCL,1985,Quarter Finals,9
+Barcelona,Goteborg,B,scored,A,0.83,0.66,UCL,1986,Semi Finals,12
+Steaua Bucharest,Barcelona,A,saved,A,0.5,0.0,UCL,1986,Final,8
+Juventus,Real Madrid,B,saved,B,0.25,0.75,UCL,1986,Round of 16,8
+PSV,Benfica,A,scored,A,1.0,0.83,UCL,1988,Final,12
+Xamax,Larisa,A,scored,A,1.0,0.0,UCL,1988,First Round,6
+Red Star,Mila,A,scored,B,0.5,1.0,UCL,1988,Round of 16,8
+Malmo,Dyanmo Drezden,A,saved,B,0.8,1.0,UCL,1990,Round of 16,10
+Spartak Moscow,Napoli,A,scored,A,1.0,0.75,UCL,1990,Round of 16,9
+Red Star,Marseille,A,scored,A,1.0,0.75,UCL,1991,Final,9
+Juventus,Ajax,B,saved,A,1.0,0.5,UCL,1996,Final,8
+Bayern Munich,Valencia,A,missed,A,0.71,0.57,UCL,2001,Final,14
+Juventus,Milan,A,saved,B,0.4,0.6,UCL,2003,Final,10
+PSV,Lyon,A,scored,A,0.8,0.5,UCL,2005,Quarter Final,9
+Milan,Liverpool,A,missed,B,0.4,0.75,UCL,2005,Final,9
+Liverpool,Chelsea,A,scored,A,1.0,0.33,UCL,2007,Semi Finals,7
+Sevilla,Fenerbahce,A,scored,B,0.4,0.75,UCL,2008,Round of 16,9
+Porto,Shalke,B,scored,B,0.33,1.0,UCL,2008,Round of 16,7
+Manchester United,Chelsea,A,scored,A,0.86,0.71,UCL,2008,Final,14
+Roma,Arsenal,B,saved,B,0.75,0.87,UCL,2009,Round of 16,16
+APOEL,Lyon,B,scored,A,1.0,0.6,UCL,2012,Round of 16,9
+Real Madrid,Bayern Munich,B,scored,B,0.25,0.6,UCL,2012,Semi Finals,9
+Bayern Munich,Chalsea,A,scored,B,0.6,0.8,UCL,2012,Final,10
+Atletico Madrid,Bayer Leverkusen,A,missed,A,0.6,0.4,UCL,2015,Round of 16,10
+Atletico Madrid,PSV,B,scored,A,1.0,0.87,UCL,2016,Round of 16,16
+Real Madrid,Atletico Madrid,A,scored,A,1.0,0.8,UCL,2016,Final,10
+Arsenal,Porto,A,scored,A,1.0,0.5,UCL,2024,Round of 16,8
+Atletico Madrid,Inter,B,scored,A,0.75,0.4,UCL,2024,Round of 16,9
+Manchester City,Real Madrid,A,scored,B,0.6,0.8,UCL,2024,Quarter Finals,10
+Liverpool,PSG,B,scored,B,0.3,1.0,UCL,2025,Round of 16,7
+Atletico Madrid,Real Madrid,B,scored,B,0.5,0.8,UCL,2025,Round of 16,9
+West Germany,France,B,scored,A,0.83,0.66,WC,1982,Semi Finals,12
+France,Brazil,B,missed,A,0.8,0.6,WC,1986,Quarter Finals,10
+West Germany,Mexico,A,scored,A,1.0,0.33,WC,1986,Quarter Finals,7
+Belgium,Spain,B,scored,A,1.0,0.8,WC,1986,Quarter Finals,10
+Ireland,Romania,B,scored,A,1.0,0.8,WC,1990,Round of 16,10
+Argentina,Yugoslavia,A,scored,A,0.6,0.4,WC,1990,Quarter Finals,10
+Argentina,Italy,B,scored,A,1.0,0.6,WC,1990,Semi Finals,9
+West Germany,England,B,scored,A,1.0,0.6,WC,1990,Semi Finals,9
+Bulgaria,Mexico,B,missed,A,0.75,0.25,WC,1994,Round of 16,8
+Sweden,Romania,A,missed,A,0.83,0.66,WC,1994,Quarter Finals,12
+Brazil,Italy,B,missed,A,0.75,0.4,WC,1994,Final,9
+Argentina,England,A,scored,A,0.8,0.6,WC,1998,Round of 16,10
+France,Italy,A,scored,A,0.8,0.6,WC,1998,Quarter Finals,10
+Brazil,Netherlands,A,scored,A,1.0,0.5,WC,1998,Semi Finals,8
+Spain,Ireland,B,scored,A,0.6,0.4,WC,2002,Round of 16,10
+South Korea,Spain,A,scored,A,1.0,0.75,WC,2002,Quarter Finals,9
+Ukraine,Switzerland,A,missed,A,0.75,0.0,WC,2006,Round of 16,7
+Germany,Argentina,A,scored,A,1.0,0.5,WC,2006,Quarter Finals,8
+Portugal,England,A,scored,A,0.6,0.25,WC,2006,Quarter Finals,9
+Italy,France,A,scored,A,1.0,0.75,WC,2006,Final,9
+Paraguay,Japan,A,scored,A,1.0,0.75,WC,2010,Round of 16,9
+Uruguay,Ghana,A,scored,A,0.8,0.5,WC,2010,Quarter Finals,9
+Brazil,Chile,A,scored,A,0.6,0.4,WC,2014,Round of 16,10
+Costa Rica,Greece,A,scored,A,1.0,0.75,WC,2014,Round of 16,9
+Netherlands,Costa Rica,B,scored,A,1.0,0.6,WC,2014,Quarter Finals,9
+Argentina,Netherlands,B,missed,A,1.0,0.5,WC,2014,Semi Finals,10
+Russia,Spain,B,scored,A,1.0,0.6,WC,2018,Round of 16,9
+Croatia,Denmark,B,missed,A,0.6,0.4,WC,2018,Round of 16,10
+England,Colombia,B,scored,A,0.8,0.6,WC,2018,Round of 16,10
+Croatia,Russia,B,missed,A,0.8,0.6,WC,2018,Quarter Finals,10
+Croatia,Japan,B,missed,A,0.75,0.25,WC,2022,Round of 16,8
+Morocco,Spain,A,scored,A,0.75,0.0,WC,2022,Round of 16,7
+Croatia,Brazil,A,scored,A,1.0,0.5,WC,2022,Quarter Finals,8
+Argentina,Netherlands,B,missed,A,0.8,0.6,WC,2022,Quarter Finals,10
+Argentina,France,B,scored,A,1.0,0.5,WC,2022,Final,8
+Czechoslovakia,Germany,A,scored,A,1.0,0.75,EURO,1976,Final,9
+Czechoslovakia,Italy,B,scored,A,1.0,0.89,EURO,1980,3rd Place Play offs,18
+Spain,Denmark,B,scored,A,1.0,0.75,EURO,1984,Semi Finals,9
+Denmark,Netherlands,B,scored,A,1.0,0.8,EURO,1992,Semi Finals,10
+England,Spain,A,scored,A,1.0,0.5,EURO,1996,Quarter Finals,8
+France,Netherlands,B,scored,A,1.0,0.8,EURO,1996,Quarter Finals,10
+Czech Republic,France,B,scored,A,1.0,0.83,EURO,1996,Semi Finals,12
+Germany,England,B,scored,A,1.0,0.83,EURO,1996,Semi Finals,12
+Italy,Netherlands,A,scored,A,0.75,0.25,EURO,2000,Semi Finals,8
+Portugal,England,B,missed,A,0.86,0.57,EURO,2004,Quarter Finals,14
+Netherlands,Sweden,B,scored,A,0.83,0.66,EURO,2004,Quarter Finals,12
+Turkey,Croatia,B,missed,A,1.0,0.25,EURO,2008,Quarter Finals,7
+Spain,Italy,A,scored,A,0.8,0.5,EURO,2008,Quarter Finals,9
+Italy,England,A,scored,A,0.8,0.5,EURO,2012,Quarter Finals,9
+Spain,Portugal,A,missed,A,0.8,0.5,EURO,2012,Semi Finals,9
+Poland,Switzerland,B,scored,A,1.0,0.75,EURO,2016,Round of 16,10
+Portugal,Poland,A,scored,A,1.0,0.75,EURO,2016,Quarter Finals,9
+Germany,Italy,B,scored,A,0.66,0.55,EURO,2016,Quarter Finals,18
+Switzerland,France,A,scored,A,1.0,0.8,EURO,2020,Round of 16,10
+Spain,Switzerland,A,missed,A,0.6,0.25,EURO,2020,Quarter Finals,9
+Italt,Spain,A,missed,A,0.8,0.5,EURO,2020,Semi Finals,9
+Italy,England,A,scored,A,0.6,0.4,EURO,2020,Final,10
+Portugal,Slovenia,B,missed,A,1.0,0.0,EURO,2024,Round of 16,6
+France,Portugal,A,scored,A,1.0,0.75,EURO,2024,Quarter Finals,9
+England,Switzerland,A,scored,A,1.0,0.75,EURO,2024,Quarter Finals,9
+Zeljeznicar,Ferencvarosi,A,scored,B,0.8,1.0,UEL,1972,Quarter Finals,10
+Kaiserslautern,Ararat Erevan,A,scored,A,0.83,0.66,UEL,1972,Round of 16,12
+Hibernian,Leeds,A,missed,B,0.8,1.0,UEL,1973,Second Round,10
+Lokomotiv Leipzig,Ipswitch,B,scored,A,0.66,0.5,UEL,1974,Quarter Finals,12
+Gyor,Lokomotiv Plovdiv,A,scored,A,0.66,0.66,UEL,1974,First Round,12
+Atletico Madrid,Derby Count,B,scored,B,0.75,0.87,UEL,1974,First Round,16
+Dinamo Moscow,Dynamo Drezden,A,scored,B,0.6,0.8,UEL,1974,Second Round,10
+Stal Mielec,Carl Zeiss Jena,B,saved,A,0.6,0.4,UEL,1975Second Round,10
+Levski Sofia,Ajax,A,scored,A,1.0,0.8,UEL,1975,Round of 16,10
+Molenbeek,Wisla Krakov,B,scored,A,0.83,0.66,UEL,1976,Second Round,12
+AEK,QPR,A,scored,A,0.87,0.75,UEL,1977,Quarter Finals,16
+Barcelona,Alkmaar,B,scored,A,0.8,0.6,UEL,1977,Second Round,10
+Zeiss Jena,Molenbeek,A,scored,A,0.86,0.71,UEL,1977,Second Round,14
+Barcelona,Ipswitch,B,missed,A,0.75,0.25,UEL,1977,Round of 16,8
+Lokomotiv Kosice,Milan,B,scored,B,0.75,0.87,UEL,1978,First Round,16
+Juventus,Widzew Lodz,B,scored,B,0.33,0.1,UEL,1980,Second Round,7
+Torino,Grasshopper,A,scored,B,0.6,1.0,UEL,1980,Round of 16,9
+Radinski Nisa,Grasshoppers,A,scored,A,1.0,0.0,UEL,1981,Second Round,6
+Norkkoping,Roma,B,scored,B,0.5,1.0,UEL,1982,Second Round,8
+Hajiduk Split,Universitatea Craiova,B,scored,A,0.75,0.25,UEL,1983,First Round,8
+Bayern Munich,PAOK,B,scored,A,0.9,0.9,UEL,1983,Second Round,20
+Tottenham,Anderlecht,A,scored,A,0.8,0.6,UEL,1984,Final,10
+Universitatea Craivo,Real Betis,A,scored,A,1.0,0.75,UEL,1984,First Round,9
+Dinamo Minsk,Sporting,A,scored,A,1.0,0.75,UEL,1984,Second Round,9
+Bohemians,Ajax,A,scored,A,1.0,0.5,UEL,1984,Second Round,9
+Videoton,Manchester United,B,scored,A,0.83,0.66,UEL,1985,Quarter Finals,12
+Hamburge,Sparta Rotterdam,B,saved,B,0.6,0.8,UEL,1985,First Round,12
+Waregen,Hajduk Split,B,scored,A,1.0,0.8,UEL,1986,Quarter Finals,10
+Toulouse,Napoli,A,missed,A,0.8,0.6,UEL,1986,First Round,10
+Boavista,Fiorentina,B,scored,A,1.0,0.25,UEL,1986,First Round,7
+KSK Beveren,Vitoria Guimaraes,A,scored,B,0.8,1.0,UEL,1987,Second Round,10
+Sportul Bucharest,Brondby,B,missed,A,1.0,0.0,UEL,1987,Second Round,6
+Vitkovice,Vitoria Guimaraes,A,scored,A,1.0,0.8,UEL,1987,Round of 16,10
+Bayer Leverkusen,Espanyol,B,scored,A,0.75,0.4,UEL,1988,Final,9
+Belenense,Velez Mostar,A,scored,B,0.6,0.8,UEL,1988,Second Round,10
+Real Sociedad,Stuttgard,B,scored,B,0.5,1.0,UEL,1989,Quarter Finals,8
+Napoli,Sporting,A,missed,A,0.5,0.5,UEL,1989,First Round,12
+Fiorentina,Atletico Madrid,A,scored,A,0.6,0.25,UEL,1989,First Round,9
+PAOK,Sevilla,A,saved,B,0.6,0.8,UEL,1990,First Round,10
+Partizan,Real Sociedad,A,scored,A,0.8,0.6,UEL,1990,Second Round,10
+Bologna,Admira,B,scored,A,0.75,0.62,UEL,1990,Round of 16,16
+Torpedo Moskau,Brondby,B,scored,B,0.5,0.6,UEL,1991,Quarter Finals,9
+Laussane Sport,KAA Gent,B,scored,B,0.33,1.0,UEL,1991,First Round,7
+Partizan,Sporting Gijon,A,saved,B,0.4,0.75,UEL,1991,First Round,9
+Cannes,Salgueiros,A,scored,A,1.0,0.5,UEL,1991,First Round,8
+Torpedo Moskau,Manchester United,A,scored,A,0.66,0.5,UEL,1992,First Round,12
+Auxerre,Dortmund,B,scored,B,0.83,1.0,UEL,1993,Semi Finals,12
+Eintracht Frankfurt,Casino Salzburg,A,scored,B,0.66,0.83,UEL,1994,Quarter Finals,12
+Aston Villa,Inter,B,scored,A,0.8,0.6,UEL,1994,First Round,10
+Aris,Katowice,A,scored,B,0.6,0.8,UEL,1994,First Round,10
+Widzew Lodz,Chornomorets,A,scored,B,0.71,0.86,UEL,1995,First Round,14
+Grazer AK,Inter,B,scored,B,0.6,1.0,UEL,1996,Second Round,9
+Inter,Schalke,B,scored,B,0.33,1.0,UEL,1997,Final,7
+Maritimo,Leeds,B,scored,B,0.33,1.0,UEL,1998,First Round,7
+Metz,Red Star,A,scored,B,0.6,0.8,UEL,1998,First Round,10
+Slavia Prague,Schalke,A,Scored,A,1.0,0.8,UEL,1998,First Round,10
+Karpaat Lviv,Helsingborgs,B,scored,B,0.0,1.0,UEL,1999,First Round,4
+Benfica,PAOK,A,scored,A,1.0,0.33,UEL,1999,Second Round,7
+Dortmund,Rangers,A,scored,A,0.75,0.25,UEL,1999,3rd Round,8
+Galatasaray,Arsenal,A,scored,A,1.0,0.33,UEL,2000,Final,7
+Wisla Krakow,Real Zaragosa,A,scored,A,0.8,0.6,UEL,2000,First Round,10
+Celtic,Valencia,A,scored,B,0.57,0.71,UEL,2001,3rd Round,14
+PSG,Rangers,B,scored,B,0.5,0.6,UEL,2001,3rd Round,12
+Milan,Roda,B,scored,A,0.6,0.4,UEL,2002,Round of 16,10
+Feyenord,PSV,B,scored,A,1.0,0.8,UEL,2002,Quarter Finals,10
+Slovan Liberec,Ipswich,B,scored,A,1.0,0.5,UEL,2002,Second Round,8
+Lefski Sofia,Sturm Graz,A,scored,B,0.77,0.88,UEL,2002,Second Round,18
+Boavista,Malaga,A,scores,A,1.0,0.33,UEL,2003,Quarter Finals,7
+Copenhagen,Ferencvaros,B,scored,A,0.6,0.4,UEL,2003,First Round,10
+Torpedo Moskau,CSKA SOfia,A,saved,A,0.6,0.4,UEL,2003,First Round,10
+Wilsa Krakowa,Valerenga,A,scored,B,0.6,0.8,UEL,2003,Second Round,10
+Brondby,Schalke,A,scored,A,0.75,0.25,UEL,2003,Second Round,8
+Rangers,Maritimo,A,scored,A,0.8,0.5,UEL,2004,First Round,9
+Steaua Bucharest,Valencia,A,scored,A,0.8,0.6,UEL,2005,Intermediate Stage,10
+Marseile,Beerschot,A,scored,A,1.0,0.33,UEL,2005,First Round,7
+Espanyol,Sevilla,B,scored,B,0.25,0.75,UEL,2007,Final,8
+Palermo,Mlada Boleslav,B,scored,B,0.5,0.75,UEL,2007,First Round,9
+Odense BK,Sparta Prague,A,missed,B,0.5,0.66,UEL,2007,First Round,12
+Fiorentina,Gronigen,B,missed,A,0.8,0.6,UEL,2007,First Round,10
+PSV,Tottenham,A,scored,A,0.86,0.71,UEL,2008,Round of 16,14
+Everton,Fiorentina,A,scored,B,0.5,0.75,UEL,2008,Round of 16,8
+Fiorentina,Rangers,B,saved,B,0.5,0.8,UEL,2008,Semi Finals,9
+Udinese,Dortmund,B,saved,A,0.8,0.6,UEL,2008,First Round,10
+Dep. La Coruna,Brann,B,scored,A,0.75,0.4,UEL,2008,First Round,9
+Twente,Marseile,B,scored,B,0.86,0.86,UEL,2009,3rd Round,14
+Alborg BK,Manchester City,A,scored,B,0.6,1.0,UEL,2009,Round of 16,9
+Steaua Bucharest,Ajax,B,scored,A,1.0,0.5,UEL,2013,Intermidiate Stage,8
+Basel,Tottenham,A,scored,A,1.0,0.33,UEL,2013,Quarter Finals,7
+Real Betis,Sevilla,B,saved,B,0.6,0.8,UEL,2014,Round of 16,10
+Sevilla,Benfica,B,scored,A,1.0,0.5,UEL,2014,Final,8
+Besiktas,Liverpool,A,scored,A,1.0,0.8,UEL,2015,Intermidiate Stage,10
+Sevilla,Athletic Club,B,scored,A,1.0,0.8,UEL,2016,Quarter Finals,10
+Besiktas,Lyon,A,scored,B,0.75,0.86,UEL,2017,Quarter Finals,16
+Chelsea,Eintracht Frakfurt,B,scored,A,0.8,0.6,UEL,2019,Semi Finals,10
+Villareal,Manchester United,A,scored,A,1.0,0.91,UEL,2021,Final,22
+Braga,Sheriff,B,saved,A,0.6,0.4,UEL,2022,Intermidiate Stage,10
+Eintracht Frankfurt,Rangers,B,scored,A,1.0,0.8,UEL,2022,Final,10
+Monaco,Bayer Leverkusen,B,scored,B,0.75,1.0,UEL,2023,Intermidiate Stage,9
+Stade Rennais,Shaktar Donetsk,A,scored,B,0.57,0.71,UEL,2023,Intermidiate Stage,14
+Arsenal,Sporting,B,scored,B,0.75,1.0,UEL,2023,Round of 16,9
+Sevilla,Roma,A,scored,A,1.0,0.33,UEL,2023,Final,7
+Rangers,Fenerbahce,B,saved,A,0.75,0.8,UEL,2025,Round of 16,9
+Lazio,Bodo Glimt,B,saved,B,0.4,0.6,UEL,2025,Quarter Finals,10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
