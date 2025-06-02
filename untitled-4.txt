@@ -107,7 +107,7 @@ Lokomotiv Leipzig,Ipswitch,B,scored,A,0.66,0.5,UEL,1974,Quarter Finals,12
 Gyor,Lokomotiv Plovdiv,A,scored,A,0.66,0.66,UEL,1974,First Round,12
 Atletico Madrid,Derby Count,B,scored,B,0.75,0.87,UEL,1974,First Round,16
 Dinamo Moscow,Dynamo Drezden,A,scored,B,0.6,0.8,UEL,1974,Second Round,10
-Stal Mielec,Carl Zeiss Jena,B,saved,A,0.6,0.4,UEL,1975Second Round,10
+Stal Mielec,Carl Zeiss Jena,B,saved,A,0.6,0.4,UEL,1975,Second Round,10
 Levski Sofia,Ajax,A,scored,A,1.0,0.8,UEL,1975,Round of 16,10
 Molenbeek,Wisla Krakov,B,scored,A,0.83,0.66,UEL,1976,Second Round,12
 AEK,QPR,A,scored,A,0.87,0.75,UEL,1977,Quarter Finals,16
@@ -155,7 +155,7 @@ Grazer AK,Inter,B,scored,B,0.6,1.0,UEL,1996,Second Round,9
 Inter,Schalke,B,scored,B,0.33,1.0,UEL,1997,Final,7
 Maritimo,Leeds,B,scored,B,0.33,1.0,UEL,1998,First Round,7
 Metz,Red Star,A,scored,B,0.6,0.8,UEL,1998,First Round,10
-Slavia Prague,Schalke,A,Scored,A,1.0,0.8,UEL,1998,First Round,10
+Slavia Prague,Schalke,A,scored,A,1.0,0.8,UEL,1998,First Round,10
 Karpaat Lviv,Helsingborgs,B,scored,B,0.0,1.0,UEL,1999,First Round,4
 Benfica,PAOK,A,scored,A,1.0,0.33,UEL,1999,Second Round,7
 Dortmund,Rangers,A,scored,A,0.75,0.25,UEL,1999,3rd Round,8
@@ -167,7 +167,7 @@ Milan,Roda,B,scored,A,0.6,0.4,UEL,2002,Round of 16,10
 Feyenord,PSV,B,scored,A,1.0,0.8,UEL,2002,Quarter Finals,10
 Slovan Liberec,Ipswich,B,scored,A,1.0,0.5,UEL,2002,Second Round,8
 Lefski Sofia,Sturm Graz,A,scored,B,0.77,0.88,UEL,2002,Second Round,18
-Boavista,Malaga,A,scores,A,1.0,0.33,UEL,2003,Quarter Finals,7
+Boavista,Malaga,A,scored,A,1.0,0.33,UEL,2003,Quarter Finals,7
 Copenhagen,Ferencvaros,B,scored,A,0.6,0.4,UEL,2003,First Round,10
 Torpedo Moskau,CSKA SOfia,A,saved,A,0.6,0.4,UEL,2003,First Round,10
 Wilsa Krakowa,Valerenga,A,scored,B,0.6,0.8,UEL,2003,Second Round,10
